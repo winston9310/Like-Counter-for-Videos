@@ -1,0 +1,21 @@
+.heart {
+    position: absolute;
+    display: none;
+    font-size: 3em;
+    color: red;
+}
+
+.like-counter {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    color: #333;
+    font-size: 0.8em; /* Tamaño de fuente más pequeño */
+    background-color: rgba(255, 255, 255, 0.7); /* Fondo semitransparente */
+    padding: 2px 5px; /* Espaciado interno */
+    border-radius: 5px; /* Bordes redondeados */
+}
+
+.like-counter span {
+    margin-right: 5px; /* Espacio entre el corazón y el contador */
+}
