@@ -7,7 +7,7 @@ Author: WinstonDev - Winston Porras
 Author URI: https://winstondev.site
 */
 
-// Agregar scripts y estilos necesarios
+// Scripts and Styles
 function agregar_scripts_estilos() {
     wp_enqueue_script('jquery');
     wp_enqueue_script('plugin-like-videos', plugin_dir_url(__FILE__) . 'like-videos.js', array('jquery'), '1.0', true);
