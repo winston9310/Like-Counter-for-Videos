@@ -19,7 +19,7 @@ jQuery(document).ready(function($) {
 
             setTimeout(function() {
                 heart.fadeOut();
-            }, 500); // Duración de 1 segundo antes de desaparecer
+            }, 500); // half second before disapear 
         });
 
         var likeCounter = $('<div class="like-counter"><span>&#10084;</span> <span class="count">' + likes + '</span></div>');
