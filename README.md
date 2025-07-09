@@ -1,4 +1,4 @@
-# Like Counter for Videos
+# Like Counter for Videos WP-Plugin
  WP-Plugin Like Counter for Videos
 
 # Like Counter for Videos
